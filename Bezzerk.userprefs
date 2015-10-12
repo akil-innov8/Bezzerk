@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/CreateLetter.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/WordManager.cs" Line="1" Column="1" />
+      <File FileName="../ChuChuTv Video App/Assets/_Scripts/RhymesManager.cs" Line="116" Column="50" />
+      <File FileName="Assets/_Scripts/CreateLetter.cs" Line="25" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
